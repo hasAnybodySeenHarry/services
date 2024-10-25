@@ -187,6 +187,19 @@ entries:
   notifier:
   - apiVersion: v2
     appVersion: 1.0.1
+    created: "2024-10-25T12:06:03.142647848Z"
+    description: A Helm chart for deploying the notifier service
+    digest: 971039d913887a6d158bd2ac5db4c6428ccb4200018294cdf749cb761fdd018b
+    home: https://github.com/hasAnybodySeenHarry/notifier
+    name: notifier
+    sources:
+    - https://github.com/hasAnybodySeenHarry/notifier
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/hasAnybodySeenHarry/debt-tracker-services/production/apps/notifier-0.0.27.tgz
+    version: 0.0.27
+  - apiVersion: v2
+    appVersion: 1.0.1
     created: "2024-09-21T10:12:08.757065028Z"
     description: A Helm chart for deploying the notifier service
     digest: c5e1f95a508a707c8c7a4145b943af75efadf0388a4126ae35f9ebaa0d1aa7e4
@@ -251,4 +264,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/debt-tracker-services/production/apps/throttler-0.0.29.tgz
     version: 0.0.29
-generated: "2024-10-25T11:58:42.949638722Z"
+generated: "2024-10-25T12:06:03.141979549Z"
