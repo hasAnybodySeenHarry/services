@@ -396,9 +396,9 @@ entries:
   throttler:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-12-07T17:56:10.015366475Z"
+    created: "2024-12-07T18:05:09.739104275Z"
     description: A Helm chart for deploying the throttler service
-    digest: c3d55e352b5f496ee3763b626e99cdc50a48ec6ed354779b687e9f823b88acba
+    digest: ee65c746c8d17e863d38b0ba083d664dccf5b7d282a93c7e4b69ce1e69ab1c1f
     home: https://github.com/hasAnybodySeenHarry/throttler
     name: throttler
     sources:
@@ -823,4 +823,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/debt-tracker-services/production/apps/throttler-0.0.29.tgz
     version: 0.0.29
-generated: "2024-12-07T17:56:10.014674338Z"
+generated: "2024-12-07T18:05:09.73842557Z"
