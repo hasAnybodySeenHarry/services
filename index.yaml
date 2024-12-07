@@ -82,6 +82,19 @@ entries:
   mailer:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-12-07T15:19:09.498761219Z"
+    description: A Helm chart for deploying the mailer service
+    digest: 9bf131e7f93949df037bd6d27499bcde0275246e618fb6f3c21142a19430e343
+    home: https://github.com/hasAnybodySeenHarry/mailer
+    name: mailer
+    sources:
+    - https://github.com/hasAnybodySeenHarry/mailer
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/hasAnybodySeenHarry/debt-tracker-services/production/apps/mailer-0.0.23.tgz
+    version: 0.0.23
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-12-07T15:16:14.152818542Z"
     description: A Helm chart for deploying the mailer service
     digest: d4d0810fcba06d9f8566eed568a6702e34f4c812d34636feb0ed6d5e3bb0bef5
@@ -706,4 +719,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/debt-tracker-services/production/apps/throttler-0.0.29.tgz
     version: 0.0.29
-generated: "2024-12-07T15:16:14.152278225Z"
+generated: "2024-12-07T15:19:09.498250712Z"
